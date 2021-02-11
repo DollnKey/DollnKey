@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, welcome my Profile 👋
 
-<!--
-**DollnKey/DollnKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido com DollnKey ou Dolln, eu tenho 15 anos e sou estudante de JavaScript & TypeScript! Atualmente estou aprendendo Python, C#, C++, ReactJS & GO.
 
-Here are some ideas to get you started:
+- 🙃 Também sei F# e Lua.
+- 😀 Entendo poucas coisas de Web Frameworks. 
+- 🥰 Amo aprender novas Linguagens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  
+![DolnKey GitHub stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
+
+</p>
