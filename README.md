@@ -16,5 +16,4 @@ Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido c
 
 ### Projetos Atuais.
 
-🌐 [WazeLab Community Developers](http://discord.gg/CzxZGAdstY)
 👨‍🔧 [Zyfhon Discord Bot](https://github.com/InSweetBot)
