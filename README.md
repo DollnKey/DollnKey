@@ -10,6 +10,7 @@ Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido c
 <p align="center">
   
 ![DollnKey Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&langs_count=5&theme=react)
+
 ![DollnKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
 
 </p>
