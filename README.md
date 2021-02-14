@@ -11,7 +11,9 @@ Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido c
   
 ![DollnKey Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinG4merBR&langs_count=5&theme=react)
 
-![DollnKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=DollnKey&show_icons=true&theme=react&layout=compact)
+
+[![Snowflake107](https://api.ghprofile.me/view?username=YOUR_USERNAME)](https://discord.gg/AcmhNjG)
 
 </p>
 
