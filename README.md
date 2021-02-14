@@ -13,7 +13,7 @@ Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido c
 
 ![DollnKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
 
-![DollnKey GitHub Stats](https://api.ghprofile.me/view?username=DollnKey)](https://discord.gg/AcmhNjG)
+[![DollnKey](https://api.ghprofile.me/view?username=DOLLNKEY)](https://discord.gg/AcmhNjG)
 
 </p>
 
