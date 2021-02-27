@@ -9,7 +9,7 @@ Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido c
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&hide=html&layout=compact&theme=react" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&hide=html&layout=compact&theme=react">
 
 ![DollnKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
 
