@@ -1,4 +1,4 @@
-### Hi, welcome my Profile! 👋
+### Hello, welcome to my profile! 👋
 
 Olá, bem-vindo(a) ao meu Perfil. Eu me chamo DollnKey Oliveira, mas conhecido com DollnKey ou Dolln, eu tenho 15 anos e sou estudante de JavaScript & TypeScript! Atualmente estou aprendendo Python, C#, C++, ReactJS & GO.
 
