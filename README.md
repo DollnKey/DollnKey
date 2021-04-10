@@ -17,13 +17,13 @@ class DollnKey {
 module.exports = DollnKey
 ```
 
-<p align="center">
-  
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&theme=react) ![DollnKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react)
-
-[![DollnKey](https://api.ghprofile.me/view?username=DOLLNKEY)](https://discord.gg/AcmhNjG)
-
+<p align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=DollnKey&theme=react&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <br>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
+<br>
 
 
 ### Projetos Atuais.
