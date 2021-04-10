@@ -6,11 +6,11 @@ class DollnKey {
         this._nome = 'DollnKey' == typeof String;
         this._idade = 15 == typeof Number;
         this._linguagem = { backend: { 'JavaScript': 80+'%', 'Python': 18+'%' }, frontend: { 'html': 50+'%', 'css': 20+'%' /* ... */ } } == typeof Object;
-        this._metas = 'Desenvolver um Aplicativo Desktop que permite Configurar "todas" as opções do Computador por lá.'
-        this._projetos = ['None' = 0] = Array;
-        this._description = 'Sou uma pequeno Desenvolvedor que procura melhorar os conhecimentos em tecnologias, e que quer realizar o sonho de um Dia ter um Aplicativo para Desktop/Mobile! Atualmente estou estudando formas para aprender a fazer, e quando conseguir irei colocar em pratica.' == String;
-        this._wrappersFavorite = ['discord.js', 'mongoose'] == Array;
-        this._estudando = ['C#', 'GO', 'ReactJS', 'Next.js', 'JavaScript', 'Python', 'Lua', 'Swift', 'TypeScript'] == Array;
+        this._metas = 'Desenvolver um Aplicativo Desktop que permite Configurar "todas" as opções do Computador por lá.' == typeof String;
+        this._projetos = ['None' = 0] = typeof Array;
+        this._description = 'Sou uma pequeno Desenvolvedor que procura melhorar os conhecimentos em tecnologias, e que quer realizar o sonho de um Dia ter um Aplicativo para Desktop/Mobile! Atualmente estou estudando formas para aprender a fazer, e quando conseguir irei colocar em pratica.' == typeof String;
+        this._wrappersFavorite = ['discord.js', 'mongoose'] == typeof Array;
+        this._estudando = ['C#', 'GO', 'ReactJS', 'Next.js', 'JavaScript', 'Python', 'Lua', 'Swift', 'TypeScript'] == typeof Array;
     }
 }
 
