@@ -22,8 +22,3 @@ module.exports = DollnKey
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
 <br>
-
-
-### Projetos Atuais.
-
-👨‍🔧 [Zyfhon Discord Bot](https://github.com/InSweetBot)
