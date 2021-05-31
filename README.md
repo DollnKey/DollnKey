@@ -26,8 +26,8 @@
 
 ### Projetos Atuais.
 <p align="left">
-   <img width="40px" src="https://avatars.githubusercontent.com/u/76604183?s=200&v=4">
-   <img width="40px" src="https://avatars.githubusercontent.com/u/84749696?s=200&v=4">
+   <img width="40px" src="https://avatars.githubusercontent.com/u/76604183?s=200&v=4" href="https://github.com/zorinbot">
+   <img width="40px" src="https://avatars.githubusercontent.com/u/84749696?s=200&v=4" href="https://github.com/AlunaBot">
 </p>
 
 ### Perfil Github.
