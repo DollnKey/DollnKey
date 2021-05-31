@@ -10,6 +10,7 @@
    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png">
    <img width="40px" src="https://img.icons8.com/color/452/visual-studio.png">
 </p>
+<br>
 
 - ### Idiomas que falo.
 > Português do Brasil(Nativo).<br>
@@ -35,7 +36,7 @@
 <br>
 
 - ### Perfil Github.
-<p align=center>
-  <img height="50px" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
-  <img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+<p align=left>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
