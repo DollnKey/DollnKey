@@ -1,6 +1,7 @@
 # DollnKey Profile
 
 > Opa! Eu me chamo DollnKey Oliveira, e sou um simples jovem aprendiz que ama Tecnologias & Softwares. Atualmente estou com 17 anos e procuro ter mais conhecimentos em Computação e Programação! Backend Developer.
+<br>
 
 - ### IDEs Atuais.
 <p align="left">
@@ -9,13 +10,12 @@
    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png">
    <img width="40px" src="https://img.icons8.com/color/452/visual-studio.png">
 </p>
-<br>
 
 - ### Idiomas que falo.
 > Português do Brasil(Nativo).<br>
 > Inglês(Intermediário).<br>
 > Espanhol(Intermediário).<br>
-
+<br>
 
 - ### Linguagens de Programação.
 <p align="left">
@@ -35,10 +35,7 @@
 <br>
 
 - ### Perfil Github.
-
-<br>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+  <img height="50px" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
+  <img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
-<br>
