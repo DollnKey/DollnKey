@@ -11,9 +11,9 @@
 </p>
 
 ### Idiomas que falo.
-> Português do Brasil(Nativo).<br>
-> Inglês(Intermediário).<br>
-> Espanhol(Intermediário).<br>
+> Português do Brasil**(Nativo)**.<br>
+> Inglês**(Intermediário)**.<br>
+> Espanhol**(Intermediário)**.<br>
 
 ### Linguagens de Programação.
 <p align="left">
