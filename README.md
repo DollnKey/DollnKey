@@ -1,5 +1,11 @@
 # DollnKey Profile
 
+> Opa! Eu me chamo DollnKey Oliveira, e sou um simples jovem aprendiz que ama Tecnologias & Softwares. Atualmente estou com 17 anos e procuro ter mais conhecimentos em Computação e Programação! Backend Developer.
+
+<br>
+
+** **
+
 <p align=center>
   <img height="80px" src="https://discord.c99.nl/widget/theme-1/450386644621721601.png" />
 </p>
@@ -7,8 +13,6 @@
 ** **
 
 <br>
-
-> Opa! Eu me chamo DollnKey Oliveira, e sou um simples jovem aprendiz que ama Tecnologias & Softwares. Atualmente estou com 17 anos e procuro ter mais conhecimentos em Computação e Programação! Backend Developer.
 
 ### IDEs Atuais.
 <p align="left">
