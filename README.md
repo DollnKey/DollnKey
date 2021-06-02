@@ -2,8 +2,6 @@
 
 > Opa! Eu me chamo DollnKey Oliveira, e sou um simples jovem aprendiz que ama Tecnologias & Softwares. Atualmente estou com 17 anos e procuro ter mais conhecimentos em Computação e Programação! Backend Developer.
 
-<br>
-
 ** **
 
 <p align=center>
