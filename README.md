@@ -1,47 +1,23 @@
-# DollnKey Profile
-
-> Opa! Eu me chamo DollnKey Oliveira, e sou um simples jovem aprendiz que ama Tecnologias & Softwares. Atualmente estou com 17 anos e procuro ter mais conhecimentos em Computação e Programação! Backend Developer.
-
-** **
-
+## 👋 Oii! Sou o DollnKey
+<div>
+  <a href="https://github.com/DollnKey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=compact&langs_count=7&theme=shades-of-purple&count_private=true"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="DollnKey-JavaScipt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">›
+  <img align="center" alt="DollnKey-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">›
+  <img align="center" alt="DollnKey-Csharp" height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> ›
+  <img align="center" alt="DollnKey-Lua" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"> ›
+  <img align="center" alt="DollnKey-Swift" height="30" width="30" src="https://macmagazine.com.br/wp-content/uploads/2014/06/02-icone-swift.png">
+</div>
+  
+  ##
+ 
 <p align=center>
-  <img height="80px" src="https://discord.c99.nl/widget/theme-1/450386644621721601.png" />
+  <img height="80px" src="https://discord.c99.nl/widget/theme-4/450386644621721601.png" />
 </p>
-
-** **
-
-<br>
-
-### IDEs Atuais.
-<p align="left">
-   <img width="40px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png">
-   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png">
-   <img width="40px" src="https://img.icons8.com/color/452/visual-studio.png">
-</p>
-
-### Idiomas que falo.
-> Português do Brasil<b>(Nativo)</b>.<br>
-> Inglês<b>(Intermediário)</b>.<br>
-> Espanhol<b>(Intermediário)</b>.<br>
-
-### Linguagens de Programação.
-<p align="left">
-   <img width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png">
-   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png">
-   <img width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-   <img width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png">
-</p>
-
-### Projetos Atuais.
-<p align="left">
-   <img width="40px" src="https://avatars.githubusercontent.com/u/76604183?s=200&v=4" href="https://github.com/zorinbot">
-   <img width="40px" src="https://avatars.githubusercontent.com/u/84749696?s=200&v=4" href="https://github.com/AlunaBot">
-</p>
-
-### Perfil Github.
-<p align=left>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DollnKey&show_icons=true&theme=react&hide_title=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DollnKey&layout=react&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
-</p>
+    
+  ##
+ 
+  ![](https://github.com/DollnKey/snk/raw/output/github-contribution-grid-snake.svg)
