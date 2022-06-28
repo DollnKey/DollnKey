@@ -1,12 +1,7 @@
 ## 📜 - Sobre mim.
 Olá, eu me chamo **DollnKey** e atualmente tenho 17 anos, e sou um simples Jovem procurando novos conhecimentos cada dia mais sobre Inteligência Artificial e outras demais tecnologias inovadoras. Sempre buscando um melhor conhecimento para o futuro, e juntos desenvolver um futuro melhor para todos nós.
 ** **
-## 📂 - Meus projetos.
-*  _[`Comming Soon`](https://github.com/ArdythBot)_ » (**Moderação**, **Configuração** e **Segurança**) `:` Criador **&** Diretor Geral. 👑
-*  _**[ZorinBot](https://github.com/zorinbot)**_ » (**Moderação** e **Configuração**) `:` Desenvolvedor Contribuidor **&** Chefe de Moderação/Gerenciamentos. 🛠️
-*  _**[HunterBot](https://discord.gg/5JJmH6G2mr)**_ » (**Rádio [Hunter.FM](https://hunter.fm/)**) `:` Contribuidor **&** Chefe de Moderação. 🛡️
 
-** **
 ## 👨‍💻 - Linguagens de Programação & Ferramentas. 🔧
 <p>
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&&logoColor=yellow"></img>
